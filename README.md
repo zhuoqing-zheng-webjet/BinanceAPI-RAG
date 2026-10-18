@@ -22,6 +22,9 @@ EVAL
   questions with known correct sections → hit@k and MRR, per search mode
 ```
 
+<img width="1014" height="784" alt="image" src="https://github.com/user-attachments/assets/7f069cdf-d8de-48b1-9397-803dc27582d6" />
+
+
 ## Setup
 
 Requirements: Docker, [uv](https://docs.astral.sh/uv/), git.

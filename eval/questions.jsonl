@@ -1,0 +1,2 @@
+{"id": "q01", "type": "how_to", "question": "What is the api that allows me to create orders?", "expected": [{"file": "rest-api.md", "heading": "New order (TRADE)"}, {"file": "web-socket-api.md", "heading": "Place new order (TRADE)"}, {"file": "fix-api.md", "heading": "NewOrderSingle `<D>`"}], "must_include": ["POST /api/v3/order"]}
+{"id": "q02", "type": "concept", "question": "What does Fix api do", "expected": [{"file": "fix-api.md", "heading": "General API Information"}], "must_include": ["Order Entry", "Drop Copy", "Market Data"]}
